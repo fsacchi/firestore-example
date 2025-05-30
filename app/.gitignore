@@ -1,2 +1,4 @@
 /build
+/assets
 **/google-services.json
+**/service-account.json
